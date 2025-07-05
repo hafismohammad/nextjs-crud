@@ -1,6 +1,6 @@
 # Next.js Blog Dashboard
 
-A modern, responsive blog dashboard built with Next.js, featuring both a public site for viewing posts and an admin dashboard for managing them. The application uses the JSONPlaceholder API for data operations.
+A modern, responsive Next.js CRUD project built with Next.js, featuring both a public site for viewing posts and an admin dashboard for managing them. The application uses the JSONPlaceholder API for data operations.
 
 ## 🚀 Features
 
