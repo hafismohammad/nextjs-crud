@@ -1,31 +1,30 @@
-Next.js Blog Dashboard
+# Next.js Blog Dashboard
+
 A modern, responsive blog dashboard built with Next.js, featuring both a public site for viewing posts and an admin dashboard for managing them. The application uses the JSONPlaceholder API for data operations.
-🚀 Features
-Public Site (/)
 
-✅ Display all blog posts in a beautiful grid layout
-✅ Post cards with titles, excerpts, and engagement metrics
-✅ Click to view individual post details (/posts/[id])
-✅ Responsive design with smooth animations
-✅ Loading states and error handling
+## 🚀 Features
 
-Admin Dashboard (/admin)
+### Public Site (/)
+✅ Display all blog posts in a beautiful grid layout  
+✅ Post cards with titles, excerpts, and engagement metrics  
+✅ Click to view individual post details (/posts/[id])  
+✅ Responsive design with smooth animations  
+✅ Loading states and error handling  
 
-✅ Full CRUD operations for posts
-✅ Create new posts with rich text editing
-✅ Edit existing posts
-✅ Delete posts with confirmation
-✅ Real-time updates with React Query
+### Admin Dashboard (/admin)
+✅ Full CRUD operations for posts  
+✅ Create new posts with rich text editing  
+✅ Edit existing posts  
+✅ Delete posts with confirmation  
+✅ Real-time updates with React Query  
 
-🛠️ Tech Stack
-
-Framework: Next.js 14+ (App Router)
-Styling: Tailwind CSS
-UI Components: shadcn/ui
-Data Fetching: React Query (TanStack Query)
-HTTP Client: Axios
-Icons: Lucide React
-API: JSONPlaceholder (https://jsonplaceholder.typicode.com/)
-
+## 🛠️ Tech Stack
+**Framework:** Next.js 14+ (App Router)  
+**Styling:** Tailwind CSS  
+**UI Components:** shadcn/ui  
+**Data Fetching:** React Query (TanStack Query)  
+**HTTP Client:** Axios  
+**Icons:** Lucide React  
+**API:** JSONPlaceholder (https://jsonplaceholder.typicode.com/)
 
 Thanks for checking it out! ⭐
