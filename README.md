@@ -23,6 +23,7 @@ A modern, responsive Next.js CRUD project built with Next.js, featuring both a p
 
 ## 🛠️ Tech Stack
 **Framework:** Next.js 14+ (App Router)  
+**Language:** TypeScript  
 **Styling:** Tailwind CSS  
 **UI Components:** shadcn/ui  
 **Data Fetching:** React Query (TanStack Query)  
